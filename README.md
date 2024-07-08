@@ -1,4 +1,4 @@
-# Drink water goal (React + Typescript + Vite)
+# Toss Coin (React + Typescript + Vite)
 
 This is a toss coin application
 
